@@ -6,7 +6,6 @@ html, body {
 
 body {
     font-family: 'Open Sans', sans-serif;
-
 }
 
 a {
@@ -27,6 +26,7 @@ a:hover {
 
     padding-top: 43px;
     padding-bottom: 85px;
+
 }
 
 .nav-link {
